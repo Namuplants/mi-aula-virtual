@@ -6,4 +6,5 @@ Atividades
 1- Explorar los proyectos que hay en Scratch y ver como funciona
 
 2- Crear una animacion sencilla de un personaje con movimientos
+
 3- Diseñar un mini videojuego
